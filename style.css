@@ -1,0 +1,51 @@
+img {
+    width:150px ;
+}
+
+h3 {
+    font-size: 20px;
+    font-family:Tahoma;
+}
+
+div {
+    padding: 50px;
+    text-align: center;
+    border-top: 1px solid  #d5d5d5;
+}
+
+p {
+    line-height: 25px;
+    font-size:15px;
+    text-align: center;
+    width:790px ;
+    margin-left: auto;
+    margin-right: auto;
+    color:#31363F;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 22px;
+    font-family: tahoma;
+    
+}
+
+a {
+    text-decoration: none;
+    border: 2px solid ;
+    border-radius: 25px;
+    padding: 5px 20px;
+    background-color:#4CCD99;
+    color: white;
+}
+
+span {
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+
+h1 {
+    font-size:30px ;
+    font-family: tahoma;
+}
+
